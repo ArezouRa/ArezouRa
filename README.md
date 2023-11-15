@@ -39,5 +39,5 @@ I love to cook too.
 
 ##### 📫 You could reach me on:
 <br>
-<i>Email: arezou.rgh@gmail.com</i>
+<i>Email:</i>
 
