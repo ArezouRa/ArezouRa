@@ -29,12 +29,12 @@ A student at DCI institue, begining my new journy called programming.
 
 #### 🔭 My previous experiences:
 
-I used to work in differenr branches other than IT. <br>I have been working as freelance translator<br> and  been in charge of procurement and import in Industry. 
+I used to work in different branches other than IT. <br>I have been working as freelance translator.<br> I have also  been in charge of procurement and import in Industry. 
 
 #### 🌱 My interests and hobbies:
-I love learning new stuff and new challanges!
-I love animals and care about enviroment. 
-I swim regulary.
+I love learning new stuff and new challanges!<br>
+I love animals and care about enviroment. <br>
+I swim regulary.<br>
 I love to cook too. 
 
 ##### 📫 You could reach me on:
