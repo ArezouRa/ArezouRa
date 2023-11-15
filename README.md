@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="/home/dci-student/projects/ArezouRa/images (1).png"
+<img src="1.png"
      alt="Avatar"
      style="float: left; margin-right: 5px;" />
 
